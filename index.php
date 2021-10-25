@@ -1,4 +1,9 @@
+<?php
+echo "</br>\n</br>";?>
 <?php require_once('header.php'); ?>
+<?php
+echo "</br>\n</br>";?>
+
 <?php
 $tiltle = 'web'; // string
 $decode = 1996; // integer (number)

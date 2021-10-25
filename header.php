@@ -15,5 +15,5 @@ function checkKey(key) {
   return (key >= '0' && key <= '9') || ['+','(',')','-'].includes(key);
 }
 </script>
-<input onkeydown="return checkKey(event.key)" placeholder="Enter a two digit number please" type="tel">
+<input onkeydown="return checkKey(event.key)" placeholder="Enter a credit card #" type="tel">
 </body>
