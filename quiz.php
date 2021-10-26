@@ -1,20 +1,20 @@
 <!DOCTYPE html&gt;>
-<!--code by webdevtrick (webdevtrick.com) -->
+
 <head>
-	<meta charset=UTF-8" />
+    <meta charset=UTF-8" />
 
-	<title>PHP QUIZ | Webdevtrick.com</title>
+    <title>PHP MATH QUIZ</title>
 
-	<link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
 
-	<div id="page-wrap">
+    <div id="page-wrap">
 
-		<h1>Simple Quiz Built On PHP</h1>
+        <h1>Simple Quiz Built On PHP</h1>
 
-		<form action="result.php" method="post" id="quiz">
+        <form action="result.php" method="post" id="quiz">
 
             <ol>
 
@@ -152,12 +152,11 @@
 
             <input type="submit" value="Submit" class="submitbtn" />
 
-		</form>
+        </form>
 
-	</div>
+    </div>
 
 
 </body>
 
 </html>
-
