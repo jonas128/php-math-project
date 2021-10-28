@@ -4,7 +4,7 @@
 
 <head>
     <meta charset=UTF-8" />
-    <title>PHP Quiz</title>
+    <title>Your results</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
@@ -12,7 +12,7 @@
 
     <div id="page-wrap">
 
-        <h1>Result | Webdevtrick.com</h1>
+        <h1>Result</h1>
         <?php
 
         $answer1 = $_POST['question-1-answers'];
