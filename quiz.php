@@ -3,7 +3,7 @@
 <head>
     <meta charset=UTF-8" />
 
-    <title>PHP MATH QUIZ</title>
+    <title>JONAS' MATH QUIZ</title>
 
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
@@ -11,141 +11,112 @@
 <body>
 
     <div id="page-wrap">
-
-        <h1>Simple Quiz Built On PHP</h1>
-
+        <h1>JONAS' MATH QUIZ</h1>
         <form action="result.php" method="post" id="quiz">
 
             <ol>
-
+                <img src="J1.JPG" alt="" width="300" height="250" />
                 <li>
-
-                    <h3>WordPress is a...</h3>
+                    <h3>0, 1, 2, 3 är exempel på</h3>
 
                     <div>
                         <input type="radio" name="question-1-answers" id="question-1-answers-A" value="A" />
-                        <label for="question-1-answers-A">A) Software </label>
+                        <label for="question-1-answers-A">A) Romerska siffror </label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-1-answers" id="question-1-answers-B" value="B" />
-                        <label for="question-1-answers-B">B) Web App</label>
+                        <label for="question-1-answers-B">B) Arabiska siffror</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-1-answers" id="question-1-answers-C" value="C" />
-                        <label for="question-1-answers-C">C) CMS</label>
+                        <label for="question-1-answers-C">C) En kryptovaluta</label>
                     </div>
-
-                    <div>
-                        <input type="radio" name="question-1-answers" id="question-1-answers-D" value="D" />
-                        <label for="question-1-answers-D">D) Other</label>
-                    </div>
-
                 </li>
 
-                <li>
 
-                    <h3>SEO is Part Of...</h3>
+
+
+                <img src="P1.png" alt="" width="300" height="250" />
+                <li>
+                    <h3>Vad heter detta berömda matematiska teorem?</h3>
 
                     <div>
                         <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
-                        <label for="question-2-answers-A">A) Video Editing</label>
+                        <label for="question-2-answers-A">A) Pythagoras sats</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-2-answers" id="question-2-answers-B" value="B" />
-                        <label for="question-2-answers-B">B) Graphic Designing</label>
+                        <label for="question-2-answers-B">B) Black–Scholes ekvation</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-2-answers" id="question-2-answers-C" value="C" />
-                        <label for="question-2-answers-C">C) Web Designing</label>
+                        <label for="question-2-answers-C">C) Menachem's seed</label>
                     </div>
-
-                    <div>
-                        <input type="radio" name="question-2-answers" id="question-2-answers-D" value="D" />
-                        <label for="question-2-answers-D">D) Digital Marketing</label>
-                    </div>
-
                 </li>
 
+                <img src="IMG1.JPG" alt="" width="300" height="250" />
                 <li>
-
-                    <h3>PHP is a....</h3>
+                    <h3>Två vinklar och en sida i en triangel är kända.
+                        Du räknar ut sista vinkeln och de andra två sidorna. Vad har du gjort?</h3>
 
                     <div>
                         <input type="radio" name="question-3-answers" id="question-3-answers-A" value="A" />
-                        <label for="question-3-answers-A">A) Server Side Script</label>
+                        <label for="question-3-answers-A">A) Triangulering</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-3-answers" id="question-3-answers-B" value="B" />
-                        <label for="question-3-answers-B">B) Programming Language</label>
+                        <label for="question-3-answers-B">B) Triangel solvering</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-3-answers" id="question-3-answers-C" value="C" />
-                        <label for="question-3-answers-C">C) Markup Language</label>
+                        <label for="question-3-answers-C">C) Kvadrant optimering</label>
                     </div>
-
-                    <div>
-                        <input type="radio" name="question-3-answers" id="question-3-answers-D" value="D" />
-                        <label for="question-3-answers-D">D) None Of Above These</label>
-                    </div>
-
                 </li>
 
+                <img src="IMG3.PNG" alt="" width="300" height="250" />
                 <li>
-
-                    <h3>Localhost IP is..</h3>
+                    <h3>Vad är svaret om uttrycket evalueras?</h3>
 
                     <div>
                         <input type="radio" name="question-4-answers" id="question-4-answers-A" value="A" />
-                        <label for="question-4-answers-A">A) 192.168.0.1</label>
+                        <label for="question-4-answers-A">A) 128</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-4-answers" id="question-4-answers-B" value="B" />
-                        <label for="question-4-answers-B">B) 127.0.0.0</label>
+                        <label for="question-4-answers-B">B) 0</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-4-answers" id="question-4-answers-C" value="C" />
-                        <label for="question-4-answers-C">C) 1080:80</label>
+                        <label for="question-4-answers-C">C) 1</label>
                     </div>
-
-                    <div>
-                        <input type="radio" name="question-4-answers" id="question-4-answers-D" value="D" />
-                        <label for="question-4-answers-D">D) Any Other</label>
-                    </div>
-
                 </li>
 
+                <img src="IMG2.PNG" alt="" width="300" height="250" />
                 <li>
-
-                    <h3>Webdevtrick Is For</h3>
+                    <h3>Vad i multiplicerat med i?</h3>
 
                     <div>
                         <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                        <label for="question-5-answers-A">A) Web Designer</label>
+                        <label for="question-5-answers-A">A) 2i</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                        <label for="question-5-answers-B">B) Web Developer</label>
+                        <label for="question-5-answers-B">B) 1</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                        <label for="question-5-answers-C">C) Graphic Designer</label>
+                        <label for="question-5-answers-C">C) -1</label>
                     </div>
-
-                    <div>
-                        <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                        <label for="question-5-answers-D">D) All Above These</label>
-                    </div>
-
                 </li>
 
             </ol>

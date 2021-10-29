@@ -23,19 +23,19 @@
 
         $totalCorrect = 0;
 
-        if ($answer1 == "C") {
+        if ($answer1 == "B") {
             $totalCorrect++;
         }
-        if ($answer2 == "D") {
+        if ($answer2 == "A") {
             $totalCorrect++;
         }
-        if ($answer3 == "A") {
+        if ($answer3 == "B") {
             $totalCorrect++;
         }
-        if ($answer4 == "B") {
+        if ($answer4 == "C") {
             $totalCorrect++;
         }
-        if ($answer5 == "D") {
+        if ($answer5 == "C") {
             $totalCorrect++;
         }
 
