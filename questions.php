@@ -12,7 +12,7 @@
 
     <div id="page-wrap">
         <h1>JONAS' MATH QUIZ</h1>
-        <form action="result1.php" method="post" id="quiz">
+        <form action="resultat.php" method="post" id="quiz">
 
             <ol>
                 <img src="J1.JPG" alt="" width="300" height="250" />
@@ -151,9 +151,3 @@
 </body>
 
 </html>
-
-<?php
-
-require __DIR__ . '/footer.php';
-
-?>

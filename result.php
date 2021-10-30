@@ -3,16 +3,16 @@
 <html>
 
 <head>
-    <meta charset=UTF-8" />
-    <title>Your results</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <meta charset="utf-8" />
+    <title>Ditt resultat</title>
+    <link rel="stylesheet" type="text/css" href="stylex.css" />
 </head>
 
 <body>
 
     <div id="page-wrap">
 
-        <h1>Result</h1>
+        <h1>Resultat</h1>
         <?php
 
         $answer1 = $_POST['question-1-answers'];
@@ -39,7 +39,7 @@
             $totalCorrect++;
         }
 
-        echo "<div id='results'>$totalCorrect / 5 correct</div>";
+        echo "<div id='results'>$totalCorrect poäng av 5 möjliga</div>";
 
         ?>
     </div>
