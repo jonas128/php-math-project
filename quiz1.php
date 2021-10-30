@@ -12,7 +12,7 @@
 
     <div id="page-wrap">
         <h1>JONAS' MATH QUIZ</h1>
-        <form action="result.php" method="post" id="quiz">
+        <form action="result1.php" method="post" id="quiz">
 
             <ol>
                 <img src="J1.JPG" alt="" width="300" height="250" />
@@ -116,6 +116,26 @@
                     <div>
                         <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
                         <label for="question-5-answers-C">C) -1</label>
+                    </div>
+                </li>
+
+                <img src="IMG4.JPG" alt="" width="300" height="250" />
+                <li>
+                    <h3>Vad i multiplicerat med i?</h3>
+
+                    <div>
+                        <input type="radio" name="question-6-answers" id="question-6-answers-A" value="A" />
+                        <label for="question-6-answers-A">A) 2i</label>
+                    </div>
+
+                    <div>
+                        <input type="radio" name="question-6-answers" id="question-6-answers-B" value="B" />
+                        <label for="question-6-answers-B">B) 1</label>
+                    </div>
+
+                    <div>
+                        <input type="radio" name="question-6-answers" id="question-6-answers-C" value="C" />
+                        <label for="question-6-answers-C">C) -1</label>
                     </div>
                 </li>
 
