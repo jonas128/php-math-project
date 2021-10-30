@@ -15,7 +15,7 @@
         <form action="resultat.php" method="post" id="quiz">
 
             <ol>
-                <img src="J1.JPG" alt="" width="300" height="250" />
+                <img src="images/J1.JPG" alt="" width="300" height="250" />
                 <li>
                     <h3>0, 1, 2, 3 är exempel på</h3>
 
@@ -38,7 +38,7 @@
 
 
 
-                <img src="P1.png" alt="" width="300" height="250" />
+                <img src="images/P2.PNG" alt="" width="300" height="250" />
                 <li>
                     <h3>Vad heter detta berömda matematiska teorem?</h3>
 
@@ -58,7 +58,7 @@
                     </div>
                 </li>
 
-                <img src="IMG1.JPG" alt="" width="300" height="250" />
+                <img src="images/P3.JPG" alt="" width="300" height="250" />
                 <li>
                     <h3>Två vinklar och en sida i en triangel är kända.
                         Du räknar ut sista vinkeln och de andra två sidorna. Vad har du gjort?</h3>
@@ -79,7 +79,7 @@
                     </div>
                 </li>
 
-                <img src="IMG3.PNG" alt="" width="300" height="250" />
+                <img src="images/P4.PNG" alt="" width="300" height="250" />
                 <li>
                     <h3>Vad är svaret om uttrycket evalueras?</h3>
 
@@ -99,7 +99,7 @@
                     </div>
                 </li>
 
-                <img src="IMG2.PNG" alt="" width="300" height="250" />
+                <img src="images/P5.PNG" alt="" width="300" height="250" />
                 <li>
                     <h3>Vad i multiplicerat med i?</h3>
 
@@ -119,7 +119,7 @@
                     </div>
                 </li>
 
-                <img src="IMG4.JPG" alt="" width="300" height="250" />
+                <img src="images/J6.JPG" alt="" width="300" height="250" />
                 <li>
                     <h3>Vad i multiplicerat med i?</h3>
 

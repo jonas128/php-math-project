@@ -13,6 +13,8 @@
     <div id="page-wrap">
 
         <h1>Result</h1>
+
+
         <?php
 
         $answer1 = $_POST['question-1-answers'];
@@ -46,6 +48,10 @@
         echo "<div id='results'>$totalCorrect / 6 correct</div>";
 
         ?>
+
+
+
+
     </div>
 
 </body>
