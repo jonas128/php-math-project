@@ -121,21 +121,21 @@
 
                 <img src="images/J6.JPG" alt="" width="300" height="250" />
                 <li>
-                    <h3>Vad i multiplicerat med i?</h3>
+                    <h3>Vem har inte jobbat som matematik lärare?</h3>
 
                     <div>
                         <input type="radio" name="question-6-answers" id="question-6-answers-A" value="A" />
-                        <label for="question-6-answers-A">A) 2i</label>
+                        <label for="question-6-answers-A">A) Jonas Mårtensson</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-6-answers" id="question-6-answers-B" value="B" />
-                        <label for="question-6-answers-B">B) 1</label>
+                        <label for="question-6-answers-B">B) Jonas Sigrell</label>
                     </div>
 
                     <div>
                         <input type="radio" name="question-6-answers" id="question-6-answers-C" value="C" />
-                        <label for="question-6-answers-C">C) -1</label>
+                        <label for="question-6-answers-C">C) Jeffrey Epstein</label>
                     </div>
                 </li>
 
