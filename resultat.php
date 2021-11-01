@@ -1,3 +1,5 @@
+<?php require __DIR__ . '/data.php'; ?>
+
 <!DOCTYPE html>
 
 <html>
@@ -24,7 +26,7 @@
         $answer5 = $_POST['question-5-answers'];
         $answer6 = $_POST['question-6-answers'];
 
-        $totalCorrect = 0;
+
 
         if ($answer1 == "B") {
             $totalCorrect++;
@@ -46,6 +48,10 @@
         }
 
         echo "<div id='results'>$totalCorrect / 6 correct</div>";
+        echo "Du är ett $correctAnswer[5]";
+
+
+
 
         ?>
 
