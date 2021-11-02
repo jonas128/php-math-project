@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/fighting-math-toys-LweK4Ma6Chp8k.gif" />
+<img src="https://https://media.giphy.com/media/LweK4Ma6Chp8k/giphy.gif" />
 
 # PHP MATH QUIZ
 
