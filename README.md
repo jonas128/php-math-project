@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/LweK4Ma6Chp8k"/>
+<img src="https://giphy.com/embed/LweK4Ma6Chp8k">
 
 # PHP MATH QUIZ
 
