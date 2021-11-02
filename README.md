@@ -28,7 +28,11 @@ Code review written by [Hanna Rosenberg](https://github.com/hanna-rosenberg).
 3. Functions.php / row 14 & 15 Results.php / row 84 & 85 Your code is in English, but some words are written in Swedish.
 4. Questions.php / row 6 & 14 Credit.php / row 17 Your site is in Swedish, but your title, and H1 is in English. So is your function with the       credit-cardnumber. I would suggest that you choose one language and use it throughout, in the code and on the site.  
 5. The “Do not enter creditcard”- function is fun. But I’m not sure I understand it. Is it just for fun or does it do anything?  If it does anything it wouldn’t hurt with an explanation, on the site or in a comment in the code, to make sure it doesn’t cause any confusion. 
-6. 
+6. On my computer, the site are “bleeding” in mobile-view.
+7. I like the first image with the cartoon-guy that looks like you! It fits the theme and makes the site personal. About the rest of the pictures, I would suggest that you enlarges them. The reason for that is that the images with the handwritten text/calculations are hard to reed without zooming!
+8. Data.php / row 12 – 26  It would be easier to read the code if you wrote the arrays in the same way, with linebreaks at the same place.
+9. Results.php      I think the whole Result-site looks good! Clean and I like your choice of fonts. But you have     used HTML code inside PHP-tags in this file!
+
 # Testers
 
 Tested by the following people:
