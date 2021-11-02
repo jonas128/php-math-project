@@ -24,7 +24,11 @@ git clone https://github.com/jonas128/php-math-project
 Code review written by [Hanna Rosenberg](https://github.com/hanna-rosenberg).
 
 1. I like your site, it’s really smart and funny. Impressive! One thing I thought about is that it would be easier to read if there were more space separating the questions. Right now it’s a bit difficult  to see what images are connected to which question. If you work more with the CSS this could be solved pretty easily. A suggestion is to put the connected images, questions and alternatives together in divs and add margin between them.
-
+2. Questions.php / row 18, 41, 61, 82, 102, 122: I would suggest that you add alt-text on your images, for the accessibility!
+3. Functions.php / row 14 & 15 Results.php / row 84 & 85 Your code is in English, but some words are written in Swedish.
+4. Questions.php / row 6 & 14 Credit.php / row 17 Your site is in Swedish, but your title, and H1 is in English. So is your function with the       credit-cardnumber. I would suggest that you choose one language and use it throughout, in the code and on the site.  
+5. The “Do not enter creditcard”- function is fun. But I’m not sure I understand it. Is it just for fun or does it do anything?  If it does anything it wouldn’t hurt with an explanation, on the site or in a comment in the code, to make sure it doesn’t cause any confusion. 
+6. 
 # Testers
 
 Tested by the following people:
