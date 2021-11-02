@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/LweK4Ma6Chp8k" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fighting-math-toys-LweK4Ma6Chp8k">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/1FMaabePDEfgk/giphy.gif" />
 
 # PHP MATH QUIZ
 
