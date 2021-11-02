@@ -1,12 +1,23 @@
 INSERT MANDATORY GIF
 
-# Project Title
+# PHP MATH QUIZ
 
-Text about the project and why it exists. This would also be a great place to link the project on One.com.
+A fun and informative math quiz: please enjoy at http://jonas128.com 
 
 # Installation
 
-Add the installation instructions.
+To install this project follow this list
+
+-   Clone the project
+
+```
+git clone https://github.com/jonas128/php-math-project
+```
+
+-   Start php server `php -S localhost:8000`
+
+-   Open up you browser and paste in this link:
+    `http://localhost:8000/index.php`
 
 # Code Review
 
