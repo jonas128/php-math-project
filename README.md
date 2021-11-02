@@ -1,5 +1,5 @@
-<img src="https://https://media.giphy.com/media/LweK4Ma6Chp8k/giphy.gif" />
-
+<img src="https://media.giphy.com/media/LweK4Ma6Chp8k/giphy.gif" />
+<img src="https://media.giphy.com/media/1FMaabePDEfgk/giphy.gif" />
 # PHP MATH QUIZ
 
 A fun and informative math quiz: please enjoy at http://jonas128.com 
