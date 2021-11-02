@@ -1,4 +1,4 @@
-INSERT MANDATORY GIF
+<iframe src="https://giphy.com/embed/LweK4Ma6Chp8k" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fighting-math-toys-LweK4Ma6Chp8k">via GIPHY</a></p>
 
 # PHP MATH QUIZ
 
@@ -21,7 +21,7 @@ git clone https://github.com/jonas128/php-math-project
 
 # Code Review
 
-Code review written by [Jane Doh](https://github.com/username).
+Code review written by [Hanna Rosenberg](https://github.com/hanna-rosenberg).
 
 1. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
 2. `example.js:10-15` - Remember to think about X and this could be refactored using the amazing Y function.
