@@ -101,7 +101,7 @@
 
                 <img src="images/P5.PNG" alt="" width="300" height="250" />
                 <li>
-                    <h3>Vad i multiplicerat med i?</h3>
+                    <h3>Vad är i multiplicerat med i?</h3>
 
                     <div>
                         <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
