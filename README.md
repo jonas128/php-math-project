@@ -2,7 +2,7 @@
 
 # PHP MATH QUIZ
 
-A fun and informative math quiz: please enjoy at http://jonas128.com
+A fun and informative math quiz: please enjoy at http://jonas128.se/quiz
 
 # Installation
 
